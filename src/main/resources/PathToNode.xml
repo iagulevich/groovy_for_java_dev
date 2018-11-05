@@ -1,0 +1,7 @@
+<nodes>
+    <node-a>
+        <node-b attrA="a">b</node-b>
+        <node-c attrB="c">e</node-c>
+    </node-a>
+</nodes>
+
